@@ -88,6 +88,7 @@ Developed by:ABHINAV GURU R RegisterNumber:25016474
 
 **Output/TIMING Waveform**
 <img width="1435" height="743" alt="image" src="https://github.com/user-attachments/assets/52230869-189b-4541-a0be-f6598a25054b" />
+<img width="1912" height="1011" alt="image" src="https://github.com/user-attachments/assets/9cafe385-cfd1-43d6-8ef5-3bc9ea1018f3" />
 
 
 
